@@ -1,0 +1,26 @@
+h1 {
+    color: black;
+    text-align: center;
+    padding: 25px;
+    background-color: yellow;
+}
+
+img {
+    position: absolute;
+    right: 300px;
+    bottom: 300px;
+}
+
+p1 {
+    font-size: 22px;
+    position: absolute;
+    left: 600px;
+    top: 400px;
+    right: 150px;
+    font-weight: bold;
+    color: purple;
+}
+
+li {
+    font-size: 25px;
+}

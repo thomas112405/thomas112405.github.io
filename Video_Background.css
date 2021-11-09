@@ -1,0 +1,30 @@
+h1 {
+    color: black;
+    text-align: center;
+    padding: 25px;
+    background-color: yellow;
+}
+
+video {
+    position: absolute;
+    right: 350px;
+    bottom: 200px;
+}
+
+p1 {
+    position: absolute;
+    right: 350px;
+    bottom: 150px;
+    font-weight: bold;
+}
+
+p2 {
+    position: absolute;
+    right: 350px;
+    bottom: 100px;
+    font-weight: bold;
+}
+
+li {
+    font-size: 25px;
+}
